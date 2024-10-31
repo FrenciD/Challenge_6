@@ -8,7 +8,8 @@ Latitude vs. Wind Speed
 
 Added the linear regression for each relationship. Separated the plots into Northern Hemisphere and Southern Hemisphere, and create a series of scatter plots. 
 
-Northern Hemisphere:  Latitude vs. Temperature
+Northern Hemisphere:  
+                      Latitude vs. Temperature
                       
                       Latitude vs. Humidity
                       
@@ -17,7 +18,9 @@ Northern Hemisphere:  Latitude vs. Temperature
                       Latitude vs. Wind Speed
   
 
-Southern Hemisphere:  Latitude vs. Temperature
+Southern Hemisphere:  
+                      
+                      Latitude vs. Temperature
                       Latitude vs. Humidity
                       Latitude vs. Cloudiness
                       Latitude vs. Wind Speed
