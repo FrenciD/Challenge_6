@@ -19,7 +19,6 @@ Northern Hemisphere:
   
 
 Southern Hemisphere:  
-                      
                       Latitude vs. Temperature
                       Latitude vs. Humidity
                       Latitude vs. Cloudiness
